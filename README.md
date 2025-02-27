@@ -51,7 +51,7 @@ There are two versions of the project notebook.
 
 Now that you understand the ins and outs of the project, it's your time to get into it and play around with it. I strongly encourage you to clone this repository (or download it) and try out different models or data anaylses.
 
-I would also love to hear any feedback/suggestions you have for the project. If you do have suggestions, I have created a [Kaggle notebook](https://www.kaggle.com/code/rajpulapakura/houses-prices-prediction-model) which is a copy of *House Prices Prediction Version 2.ipynb*. Please go to this page and comment on it, so I can read your invaluable feedback/praise!
+I would also love to hear any feedback/suggestions you have for the project. If you do have suggestions,  Please look into files and comment on it, so I can read your invaluable feedback/praise!
 
 Thank you so much for taking the time to read through this project.
 
