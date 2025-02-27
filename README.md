@@ -2,7 +2,7 @@
 
 ![suburban houses](https://th.bing.com/th/id/R.5a336a32ca043cce70ce6c95a5c15241?rik=47sFZzeTwfvA0Q&riu=http%3a%2f%2fi.huffpost.com%2fgen%2f1549193%2fimages%2fo-SUBURBS-facebook.jpg&ehk=YcIWot3xsVpiv9DvZLg4sl4rnrloUJ%2bGM2vtBsH%2fmTQ%3d&risl=&pid=ImgRaw&r=0)
 
-**To see the final fruits of this project: check out my [Kaggle notebook](https://www.kaggle.com/code/rajpulapakura/houses-prices-prediction-model)!**
+
 
 From the height of the basement ceiling to the area of the porch, there are numerous factors that come into play when determining the price of a house. This project aims to build a regression model which predicts the prices of residential homes in Ames, Iowa.
 
